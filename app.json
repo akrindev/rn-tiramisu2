@@ -1,5 +1,11 @@
 {
   "expo": {
+      "androidStatusBar": {
+  "barStyle": "auto",
+  "backgroundColor": "#3a81fd",
+  "hidden": false,
+  "translucent": false
+},
     "name": "ToramWikiDB",
     "slug": "ToramWikiDB",
     "version": "1.0.0",
